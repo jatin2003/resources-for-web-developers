@@ -56,7 +56,7 @@ I have been collecting many links throughout months and I wish to share some of 
 
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
-- [Burst(https://burst.shopify.com/)
+- [Burst](https://burst.shopify.com/)
 - [ISO Republic](https://isorepublic.com/)
 - [Pixabay](https://pixabay.com/)
 - [StockSnap.io](https://stocksnap.io/)
