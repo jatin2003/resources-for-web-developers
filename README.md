@@ -19,6 +19,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [SpinKit](https://tobiasahlin.com/spinkit/)
 - [CSS Minifier](https://cssminifier.com/)
+- [CSS Box SHadow Generator](https://www.cssmatic.com/box-shadow)
+- [CSS Neumorphic Generator ](https://neumorphism.io/#55b9f3)
 
 ## JAVASCRIPT
 
@@ -43,6 +45,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Color Space](https://mycolor.space/)
 - [uiGradients](http://www.uigradients.com/)
 - [ImageHive](https://www.imagehive.co)
+- [Colors and Fonts Color Palettes](https://www.colorsandfonts.com/color-palettes)
 
 ## ILLUSTRATIONS
 
@@ -92,6 +95,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Vercel](https://vercel.com/)
 - [Surge](https://surge.sh/)
 - [Begin](https://begin.com/?home=true)
+- [Heroku](https://www.heroku.com/)
 
 ## OTHERS
 
