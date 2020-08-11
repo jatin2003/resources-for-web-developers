@@ -19,8 +19,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [SpinKit](https://tobiasahlin.com/spinkit/)
 - [CSS Minifier](https://cssminifier.com/)
-- [CSS Box SHadow Generator](https://www.cssmatic.com/box-shadow)
-- [CSS Neumorphic Generator ](https://neumorphism.io/#55b9f3)
+- [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+- [CSS Neumorphism Generator](https://neumorphism.io/)
 
 ## JAVASCRIPT
 
