@@ -20,7 +20,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [SpinKit](https://tobiasahlin.com/spinkit/)
 - [CSS Minifier](https://cssminifier.com/)
 - [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
-- [CSS Neumorphism Generator](https://neumorphism.io/)
+- [Neumorphism.io](https://neumorphism.io/)
 
 ## JAVASCRIPT
 
@@ -45,7 +45,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Color Space](https://mycolor.space/)
 - [uiGradients](http://www.uigradients.com/)
 - [ImageHive](https://www.imagehive.co)
-- [Colors and Fonts Color Palettes](https://www.colorsandfonts.com/color-palettes)
+- [Colors and Fonts](https://www.colorsandfonts.com/)
 
 ## ILLUSTRATIONS
 
