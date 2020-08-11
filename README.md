@@ -9,7 +9,6 @@ I have been collecting many links throughout months and I wish to share some of 
 
 - [W3C Markup Validator](https://validator.w3.org/)
 - [Meta Tags](https://metatags.io/)
-- [Favicon Generator](https://favicon-generatoe.org/)
 
 ## CSS
 
@@ -47,15 +46,6 @@ I have been collecting many links throughout months and I wish to share some of 
 - [ImageHive](https://www.imagehive.co)
 - [Colors and Fonts](https://www.colorsandfonts.com/)
 
-## ILLUSTRATIONS
-
-- [Undraw](https://undraw.co/illustrations)
-- [manypixels](https://gallery.manypixels.co/)
-- [IRA Design](https://iradesign.io/gallery/illustrations)
-- [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
-- [Blobmaker](https://www.blobmaker.app/)
-- [Get Waves](https://getwaves.io/)
-
 ## IMAGES
 
 - [Unsplash](https://unsplash.com/)
@@ -67,6 +57,16 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Photopea](https://www.photopea.com/)
 - [Online Image Compressor](https://imagecompressor.com/)
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
+- [Favicon Generator](https://favicon-generator.org/)
+
+## ILLUSTRATIONS
+
+- [Undraw](https://undraw.co/illustrations)
+- [manypixels](https://gallery.manypixels.co/)
+- [IRA Design](https://iradesign.io/gallery/illustrations)
+- [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
+- [Blobmaker](https://www.blobmaker.app/)
+- [Get Waves](https://getwaves.io/)
 
 ## READINGS
 
@@ -94,7 +94,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
 - [Surge](https://surge.sh/)
-- [Begin](https://begin.com/?home=true)
+- [Begin](https://begin.com/)
 - [Heroku](https://www.heroku.com/)
 
 ## OTHERS
@@ -104,4 +104,4 @@ I have been collecting many links throughout months and I wish to share some of 
 - [GTmetrix](https://gtmetrix.com/)
 - [Can I Use](https://caniuse.com/)
 - [Carbon](https://carbon.now.sh/)
-- [Wappalyzer](https://www.wappalyzer.com/)
+- [Wappalyzer](https://www.wappalyzser.com/)
