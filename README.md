@@ -4,7 +4,6 @@ I have been collecting many links throughout months and I wish to share some of 
 
 ---
 
-
 ## HTML
 
 - [W3C Markup Validator](https://validator.w3.org/)
@@ -23,6 +22,7 @@ I have been collecting many links throughout months and I wish to share some of 
 
 ## JAVASCRIPT
 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [JavaScript 30](https://javascript30.com/)
 - [Codewars](https://www.codewars.com/)
 - [ESLint](https://eslint.org/)
@@ -32,7 +32,9 @@ I have been collecting many links throughout months and I wish to share some of 
 
 - [Font Awesome](https://fontawesome.com/)
 - [Feather](https://feathericons.com/)
+- [Fontisto](https://www.fontisto.com/)
 - [Ionicons](https://ionicons.com/)
+- [Heroicons](https://heroicons.dev/)
 - [Simple Icons](https://simpleicons.org/)
 - [Material Design Icons](https://material.io/resources/icons/)
 
