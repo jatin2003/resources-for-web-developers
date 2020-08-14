@@ -27,6 +27,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Codewars](https://www.codewars.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [ES6 Basic Features](https://github.com/lukehoban/es6features)
 
 ## ICONS
 
