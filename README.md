@@ -19,6 +19,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [CSS Minifier](https://cssminifier.com/)
 - [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
 - [Neumorphism.io](https://neumorphism.io/)
+- [Get waves](https://getwaves.io/)
 
 ## JAVASCRIPT
 
@@ -69,7 +70,6 @@ I have been collecting many links throughout months and I wish to share some of 
 - [IRA Design](https://iradesign.io/gallery/illustrations)
 - [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
 - [Blobmaker](https://www.blobmaker.app/)
-- [Get Waves](https://getwaves.io/)
 
 ## READINGS
 
