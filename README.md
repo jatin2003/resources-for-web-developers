@@ -46,9 +46,11 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Color Hunt](https://colorhunt.co/)
 - [Color Space](https://mycolor.space/)
+- [Coolors](https://coolors.co/)
 - [uiGradients](http://www.uigradients.com/)
 - [ImageHive](https://www.imagehive.co)
 - [Colors and Fonts](https://www.colorsandfonts.com/)
+- [BADA55](http://bada55.io/)
 
 ## IMAGES
 
