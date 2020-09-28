@@ -29,6 +29,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [ES6 Basic Features](https://github.com/lukehoban/es6features)
+- [Javascript Info](https://javascript.info/)
 
 ## ICONS
 
@@ -72,6 +73,11 @@ I have been collecting many links throughout months and I wish to share some of 
 - [IRA Design](https://iradesign.io/gallery/illustrations)
 - [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
 - [Blobmaker](https://www.blobmaker.app/)
+
+## Designs
+
+- [Pinterest](https://www.pinterest.com/)
+- [Dribble](https://dribbble.com/)
 
 ## READINGS
 
