@@ -40,6 +40,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Heroicons](https://heroicons.dev/)
 - [Simple Icons](https://simpleicons.org/)
 - [Material Design Icons](https://material.io/resources/icons/)
+- [Icons8](https://icons8.com/)
+- [IconsScout](https://iconscout.com/)
 
 ## COLORS
 
