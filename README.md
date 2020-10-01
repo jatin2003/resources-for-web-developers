@@ -124,4 +124,5 @@ I have been collecting many links throughout months and I wish to share some of 
 
 ## PYTHON
 
--[PYTHON PROJECTS WITH CODE](https://hackr.io/blog/python-projects)
+- [PYTHON PROJECTS WITH CODE](https://hackr.io/blog/python-projects)
+- [DJANGO PROJECTS](https://www.djangoproject.com/start/)
