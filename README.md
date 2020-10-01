@@ -94,6 +94,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+- [W3SCHOOL ONLINE TUTORIAL](https://www.w3schools.com/)
 
 ## ACCESSIBILITY
 
@@ -118,3 +119,9 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Can I Use](https://caniuse.com/)
 - [Carbon](https://carbon.now.sh/)
 - [Wappalyzer](https://www.wappalyzser.com/)
+- [NODEJS](https://nodejs.org/en/)
+- [CHROME WEB DEVLOPER TOOLS](https://chrome.google.com/webstore/category/ext/11-web-development)
+
+## PYTHON
+
+-[PYTHON PROJECTS WITH CODE](https://hackr.io/blog/python-projects)
