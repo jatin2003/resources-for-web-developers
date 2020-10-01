@@ -67,6 +67,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Online Image Compressor](https://imagecompressor.com/)
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
 - [Favicon Generator](https://favicon-generator.org/)
+- [BGJar](https://bgjar.com/)
 
 ## ILLUSTRATIONS
 
