@@ -8,6 +8,7 @@ I have been collecting many links throughout months and I wish to share some of 
 
 - [W3C Markup Validator](https://validator.w3.org/)
 - [Meta Tags](https://metatags.io/)
+- [HTML.COM](https://html.com/)
 
 ## CSS
 
@@ -54,6 +55,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [ImageHive](https://www.imagehive.co)
 - [Colors and Fonts](https://www.colorsandfonts.com/)
 - [BADA55](http://bada55.io/)
+- [Gradient Background Colors](https://www.eggradients.com/)
+- [Grabient](https://cssgradient.io/gradient-backgrounds/)
 
 ## IMAGES
 
@@ -81,6 +84,9 @@ I have been collecting many links throughout months and I wish to share some of 
 
 - [Pinterest](https://www.pinterest.com/)
 - [Dribble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [Ui Design Daily](https://uidesigndaily.com/)
+- [Uxcel](https://uxcel.com/)
 
 ## READINGS
 
@@ -115,6 +121,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [InfinityFree](https://infinityfree.net/)
 - [CommonsHost](https://commons.host/)
 - [PonyICU](https://pony.icu/)
+- [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/)
 
 ## OTHERS
 
