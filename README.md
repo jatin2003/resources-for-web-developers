@@ -116,6 +116,11 @@ I have been collecting many links throughout months and I wish to share some of 
 - [CommonsHost](https://commons.host/)
 - [PonyICU](https://pony.icu/)
 
+## BROWSER EXTENSIONS (Chrome)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka)
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+
 ## OTHERS
 
 - [web.dev](https://web.dev/measure/)
