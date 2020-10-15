@@ -29,6 +29,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Codewars](https://www.codewars.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [Particles.js](https://vincentgarreau.com/particles.js/)
 - [ES6 Basic Features](https://github.com/lukehoban/es6features)
 - [Javascript Info](https://javascript.info/)
 
@@ -53,6 +54,15 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Coolors](https://coolors.co/)
 - [uiGradients](http://www.uigradients.com/)
 - [ImageHive](https://www.imagehive.co)
+
+## ILLUSTRATIONS
+
+- [Undraw](https://undraw.co/illustrations)
+- [manypixels](https://gallery.manypixels.co/)
+- [IRA Design](https://iradesign.io/gallery/illustrations)
+- [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
+- [Blobmaker](https://www.blobmaker.app/)
+- [Get Waves](https://getwaves.io/)
 - [Colors and Fonts](https://www.colorsandfonts.com/)
 - [BADA55](http://bada55.io/)
 - [Gradient Background Colors](https://www.eggradients.com/)
@@ -69,6 +79,9 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Photopea](https://www.photopea.com/)
 - [Online Image Compressor](https://imagecompressor.com/)
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
+- [Background Remover](https://www.remove.bg/)
+
+=======
 - [Favicon Generator](https://favicon-generator.org/)
 - [BGJar](https://bgjar.com/)
 
@@ -101,6 +114,12 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+
+## BLOGGING
+
+- [Hashnode](https://hashnode.com/)
+- [Medium](https://medium.com/)
+- [Dev.to](https://dev.to/)
 
 ## ACCESSIBILITY
 
