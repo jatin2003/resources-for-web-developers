@@ -26,6 +26,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Codewars](https://www.codewars.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+-[Particles.js](https://vincentgarreau.com/particles.js/)
 
 ## ICONS
 
@@ -64,6 +65,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Photopea](https://www.photopea.com/)
 - [Online Image Compressor](https://imagecompressor.com/)
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
+-[Background Remover](https://www.remove.bg/)
+
 
 ## READINGS
 
@@ -78,6 +81,11 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+
+##BLOGGING
+-[Hashnode](https://hashnode.com/)
+-[Medium](https://medium.com/)
+-[Dev.to](https://dev.to/)
 
 ## ACCESSIBILITY
 
