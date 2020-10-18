@@ -141,11 +141,16 @@ I have been collecting many links throughout months and I wish to share some of 
 - [CommonsHost](https://commons.host/)
 - [PonyICU](https://pony.icu/)
 - [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/)
+- [Firebase](https://firebase.google.com/)
+
 
 ## BROWSER EXTENSIONS (Chrome)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka)
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+- [f19N Obtrusive Live Test](https://chrome.google.com/webstore/detail/franz-enzenhofer-seo-live/jbnaibigcohjfefpfocphcjeliohhold)
+- [SVG-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg?ref=producthunt)
+
 
 ## OTHERS
 
@@ -156,3 +161,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Carbon](https://carbon.now.sh/)
 - [Wappalyzer](https://www.wappalyzser.com/)
 - [Readme](https://readme.com/)
+- [RegExr](https://regexr.com/)
+- [JSON formatter](https://jsonformatter.org/)
+
+
