@@ -114,6 +114,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+- [Advance HTML and CSS](https://learn.shayhowe.com/advanced-html-css/)
 
 ## BLOGGING
 
