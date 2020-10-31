@@ -81,8 +81,6 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Online Image Compressor](https://imagecompressor.com/)
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
 - [Background Remover](https://www.remove.bg/)
-
-=======
 - [Favicon Generator](https://favicon-generator.org/)
 - [BGJar](https://bgjar.com/)
 
@@ -154,7 +152,6 @@ I have been collecting many links throughout months and I wish to share some of 
 - [f19N Obtrusive Live Test](https://chrome.google.com/webstore/detail/franz-enzenhofer-seo-live/jbnaibigcohjfefpfocphcjeliohhold)
 - [SVG-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg?ref=producthunt)
 
-
 ## OTHERS
 
 - [web.dev](https://web.dev/measure/)
@@ -167,4 +164,3 @@ I have been collecting many links throughout months and I wish to share some of 
 - [RegExr](https://regexr.com/)
 - [JSON formatter](https://jsonformatter.org/)
 - [Codepen Online Platform](https://codepen.io/)
-
