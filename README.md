@@ -68,6 +68,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [BADA55](http://bada55.io/)
 - [Gradient Background Colors](https://www.eggradients.com/)
 - [Grabient](https://cssgradient.io/gradient-backgrounds/)
+- [Black Illustration](https://www.blackillustrations.com/)
 
 ## IMAGES
 
@@ -91,6 +92,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [IRA Design](https://iradesign.io/gallery/illustrations)
 - [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
 - [Blobmaker](https://www.blobmaker.app/)
+- [Black Illustration](https://www.blackillustrations.com/)
 
 ## Designs
 
