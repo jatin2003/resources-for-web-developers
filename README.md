@@ -85,15 +85,6 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Favicon Generator](https://favicon-generator.org/)
 - [BGJar](https://bgjar.com/)
 
-## ILLUSTRATIONS
-
-- [Undraw](https://undraw.co/illustrations)
-- [manypixels](https://gallery.manypixels.co/)
-- [IRA Design](https://iradesign.io/gallery/illustrations)
-- [Free Illustrations by Lukasz Adam](https://lukaszadam.com/illustrations)
-- [Blobmaker](https://www.blobmaker.app/)
-- [Black Illustration](https://www.blackillustrations.com/)
-
 ## Designs
 
 - [Pinterest](https://www.pinterest.com/)
