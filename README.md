@@ -45,6 +45,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Material Design Icons](https://material.io/resources/icons/)
 - [Icons8](https://icons8.com/)
 - [IconsScout](https://iconscout.com/)
+- [3dicons](https://www.3dicons.com/)
+- [Iconshock](https://www.iconshock.com/)
 
 ## COLORS
 
@@ -69,6 +71,8 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Gradient Background Colors](https://www.eggradients.com/)
 - [Grabient](https://cssgradient.io/gradient-backgrounds/)
 - [Black Illustration](https://www.blackillustrations.com/)
+- [Illustrations Figma](https://www.artify.co/illustrations-figma)
+- [vector Illustrations](https://www.artify.co/vector-illustrations)
 
 ## IMAGES
 
@@ -84,6 +88,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Background Remover](https://www.remove.bg/)
 - [Favicon Generator](https://favicon-generator.org/)
 - [BGJar](https://bgjar.com/)
+- [Optimize Images](https://www.optimizeimages.com)
 
 ## Designs
 
