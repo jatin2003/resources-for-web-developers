@@ -85,6 +85,7 @@ I have been collecting many links throughout months and I wish to share some of 
 - [Photopea](https://www.photopea.com/)
 - [Online Image Compressor](https://imagecompressor.com/)
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
+- [PixelArtHive](https://pixelarthive.com/)
 - [Background Remover](https://www.remove.bg/)
 - [Favicon Generator](https://favicon-generator.org/)
 - [BGJar](https://bgjar.com/)
